@@ -1,0 +1,12 @@
+[
+	{
+		"text": "Your question text",
+		"answers": ["Answer 1", "Answer 2"],
+		"correct": "Answer 1"
+	},
+	{
+		"text": "What does the fox say?",
+		"answers": ["MAOW!", "björk", "Gering-ding-ding-ding"],
+		"correct": "Gering-ding-ding-ding"
+	}
+]
